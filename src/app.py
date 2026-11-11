@@ -3,7 +3,7 @@
 import pygame
 import sys
 from src.models.animation_model import Bird, Pipe
-from src.renderers.renderer import Renderer
+from src.renders.renders import Renderer
 
 
 class App:
